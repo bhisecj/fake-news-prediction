@@ -1,5 +1,9 @@
 # fake-news-prediction
 
+
+#Goal: The goal as a data scientist is to create an NLP model, to combat fake content problems.
+
+
 #Dataset Description:
   Train.csv - 10240 rows x 3 columns (Inlcudes Labels Columns as Target)
   Test.csv - 1267 rows x 2 columns
